@@ -23,6 +23,7 @@ public class Main extends PrimaryPayment { //shopping cart example
     public static void main(String[] args) {
         billAmt(5);
         pay(new CreditCard());
+        // the below one is the second way of payment
 //        pay(new UPI());
     }
 
