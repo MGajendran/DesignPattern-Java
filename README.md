@@ -3,3 +3,4 @@ This repository has JAVA code for the design patterns (Creational, Structural, &
 
 - Strategy Pattern.
 - Observer Pattern.
+- Decorator Pattern.
