@@ -5,6 +5,10 @@ import designPattern.factory.shapes.Shape;
 
 public class Client {
 
+    /*
+    * The factory pattern is used to create an object of the other class and return it in the run time.
+    */
+
     public static void main(String[] args) {
 
         Shape s1 = ShapeFactory.getShape("circle");
