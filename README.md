@@ -7,4 +7,5 @@ This repository has JAVA code for the design patterns (Creational, Structural, &
 - Factory Pattern.
 - Abstract Factory Pattern.
 - Command Pattern.
-- Adapter Pattern
+- Adapter Pattern.
+- Facade Pattern.
