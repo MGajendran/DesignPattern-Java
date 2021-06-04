@@ -1,6 +1,6 @@
-package facade.facade;
+package designPattern.facade.facade;
 
-import facade.movie.*;
+import designPattern.facade.movie.*;
 
 public class Facade {
     /*

@@ -1,7 +1,7 @@
-package facade;
+package designPattern.facade;
 
-import facade.facade.Facade;
-import facade.movie.*;
+import designPattern.facade.facade.Facade;
+import designPattern.facade.movie.*;
 
 public class Client {
 

@@ -1,4 +1,4 @@
-package facade.movie;
+package designPattern.facade.movie;
 
 public class Speakers {
 

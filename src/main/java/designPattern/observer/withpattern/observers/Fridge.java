@@ -7,4 +7,5 @@ public class Fridge implements IObservers{
     public void update(Subject subject) {
         System.out.println("Frige got the update humidity is "+ subject.getHumidity() + " temperature is " + subject.getTemperature());
     }
+
 }
